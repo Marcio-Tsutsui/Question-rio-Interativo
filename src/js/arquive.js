@@ -19,7 +19,7 @@ function moveNaoButton() {
 function navigateToSayYES() {
   const audio = document.getElementById('sim-sound');
   audio.play().then(() => {
-      window.location.href = 'templates/home/SayYES.html';
+      window.location.href = 'templates/SayYES.html';
   }).catch(error => {
       console.error("Erro ao tentar tocar o áudio:", error);
       window.location.href = 'templates/home/SayYES.html';
