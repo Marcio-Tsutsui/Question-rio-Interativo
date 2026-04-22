@@ -13,7 +13,7 @@ body, html{
     justify-content: center;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-image: url(/src/assets/images/Monkeythinking3.png);
+    background-image: url("../images/Monkeythinking3.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
