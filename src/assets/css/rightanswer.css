@@ -11,7 +11,7 @@ body, html{
     flex-direction: column;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-image: url(/src/assets/images/GratefulMonkey.jpg);
+    background-image: url("../images/GratefulMonkey.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
